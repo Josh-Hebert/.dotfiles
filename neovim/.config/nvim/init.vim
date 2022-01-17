@@ -113,6 +113,7 @@ call plug#begin('~/.local/share/nvim/plugged')
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'tpope/vim-commentary'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 "source ~/.local/share/nvim/plugged/abolish.vim
 "#source ~/.config/nvim/plugins/airline.vim
 "#source ~/.config/nvim/plugins/arduino.vim
