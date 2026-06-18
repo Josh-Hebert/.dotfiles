@@ -1,0 +1,11 @@
+split window vertically Ctrl+b "
+split window horizontally Ctrl+b %
+close current window Ctrl+b &
+Close current pane Ctrl+b x
+Open new Window/tab Ctrl+b c
+Rename current window Ctrl+b 
+Switch windows Ctrl+b p (previous) or Ctrl+b n (next),
+Connect to specific window Ctrl+b t "session name or number" or tmux -a t session name or number
+list sessions tmux list-sessions or tmux ls or Ctrl+b s
+Rename a session tmux rename-session "Session Name" or just a $ 
+
